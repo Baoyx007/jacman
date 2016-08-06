@@ -36,7 +36,7 @@ author_img: img/author.jpg ## size:220px*220px.display author avatar picture.if 
 banner_img: #img/banner.jpg ## size:1920px*200px+. Banner Picture
 ### Theme Color 
 theme_color:
-    theme: '#2ca6cb'    ##the defaut theme color is blue
+    theme: '#42a5f5'    ##the defaut theme color is blue
 
 # 代码高亮主题
 # available: default | night
@@ -56,9 +56,9 @@ creative_commons: none
 
 #### Author information
 author:
-  intro_line1:  "Hello ,I'm Larry Page in Google."    ## your introduction on the bottom of the page
+  intro_line1:  "Hello ,I'm haven bao in earth."    ## your introduction on the bottom of the page
   intro_line2:  "This is my blog,believe it or not."  ## the 2nd line
-  weibo: 2176287895     ## e.g. wuchong1014 or 2176287895 for http://weibo.com/2176287895
+  weibo: 2802352712     ## e.g. wuchong1014 or 2176287895 for http://weibo.com/2176287895
   weibo_verifier: b3593ceb    ## e.g. b3593ceb Your weibo-show widget verifier ,if you use weibo-show it is needed.
   tsina:      ## e.g. 2176287895  Your weibo ID,It will be used in share button.
   douban:     ## e.g. wuchong1014 or your id for https://www.douban.com/people/wuchong1014
